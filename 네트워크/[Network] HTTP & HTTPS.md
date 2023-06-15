@@ -100,7 +100,7 @@ HTTPS 연결 과정(Hand-Shaking)에서는 먼저 서버와 클라이언트 간�
 
 <br/>
 
-#### 참고 자료 
+#### **📒 참고** 
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP 
 
