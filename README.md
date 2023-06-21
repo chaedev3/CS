@@ -6,3 +6,4 @@
 | JS       | call(), apply(), bind() | 23.06.15. |
 | JS       | 이벤트 버블링 & 캡쳐링  | 23.06.15. |
 | React    | React Query             | 23.06.15. |
+| 네트워크 | IP(Internet Protocol)   | 23.06.21. |
